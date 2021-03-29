@@ -1,6 +1,6 @@
 {
   "name": "@sev7e0/gatsby-theme-minimal-blog-customize",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "xiaoli <sev7e0@gmail.com>",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "license": "MIT",
